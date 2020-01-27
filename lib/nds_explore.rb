@@ -16,3 +16,6 @@ def print_first_directors_movie_titles
   end
 end
 
+nds = directors_database
+
+pretty_print_nds(nds)
